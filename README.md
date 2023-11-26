@@ -1,14 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Usman
 =============================================================================================================================
 
-Fronted devolper
-----------------
-
-I am frontend Devolper with a great passion of working nicely , learning daily and growing in tech.
-
 * 🌍  I'm based in pakistan
-* 🧠  I'm learning Django ,mongoDb ,Typescript
-* 🤝  I'm open to collaborating on Frontend ,landing Page ,Nextjs
 * ⚡  Computer Sciences student
 
 ### Skills
